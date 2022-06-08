@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\T-Gamer\Desktop\Exercícios Programação\GitHub\Planeta\Planeta\Planeta\main.cpp(10,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\T-Gamer\Desktop\Exercícios Programação\GitHub\Planeta\Planeta\Planeta\main.cpp(11,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\T-Gamer\Desktop\Exercícios Programação\GitHub\Planeta\Planeta\Planeta\main.cpp(44,34): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\T-Gamer\Desktop\Exercícios Programação\GitHub\Planeta\Planeta\Planeta\main.cpp(51,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\T-Gamer\Desktop\Exercícios Programação\GitHub\Planeta\Planeta\Planeta\main.cpp(64,36): warning C4267: 'initializing': conversion from 'size_t' to 'GLuint', possible loss of data
+C:\Users\T-Gamer\Desktop\Exercícios Programação\GitHub\Planeta\Planeta\Planeta\main.cpp(117,27): warning C4244: 'argument': conversion from 'double' to 'GLuint', possible loss of data
+C:\Users\T-Gamer\Desktop\Exercícios Programação\GitHub\Planeta\Planeta\Planeta\main.cpp(117,21): warning C4244: 'argument': conversion from 'double' to 'GLuint', possible loss of data
+C:\Users\T-Gamer\Desktop\Exercícios Programação\GitHub\Planeta\Planeta\Planeta\main.cpp(123,28): warning C4244: 'argument': conversion from 'double' to 'GLuint', possible loss of data
+C:\Users\T-Gamer\Desktop\Exercícios Programação\GitHub\Planeta\Planeta\Planeta\main.cpp(123,22): warning C4244: 'argument': conversion from 'double' to 'GLuint', possible loss of data
+C:\Users\T-Gamer\Desktop\Exercícios Programação\GitHub\Planeta\Planeta\Planeta\main.cpp(130,27): warning C4244: 'argument': conversion from 'double' to 'GLuint', possible loss of data
+C:\Users\T-Gamer\Desktop\Exercícios Programação\GitHub\Planeta\Planeta\Planeta\main.cpp(130,21): warning C4244: 'argument': conversion from 'double' to 'GLuint', possible loss of data
+C:\Users\T-Gamer\Desktop\Exercícios Programação\GitHub\Planeta\Planeta\Planeta\main.cpp(133,25): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\T-Gamer\Desktop\Exercícios Programação\GitHub\Planeta\Planeta\Planeta\main.cpp(134,25): warning C4305: '-=': truncation from 'double' to 'float'
+  Planeta.vcxproj -> C:\Users\T-Gamer\Desktop\Exercícios Programação\GitHub\Planeta\Planeta\x64\Debug\Planeta.exe

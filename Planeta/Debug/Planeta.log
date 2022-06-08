@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Users\T-Gamer\Desktop\Exercícios Programação\GitHub\Planeta\Planeta\Planeta\main.cpp(10,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\T-Gamer\Desktop\Exercícios Programação\GitHub\Planeta\Planeta\Planeta\main.cpp(11,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\T-Gamer\Desktop\Exercícios Programação\GitHub\Planeta\Planeta\Planeta\main.cpp(49,24): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\T-Gamer\Desktop\Exercícios Programação\GitHub\Planeta\Planeta\Planeta\main.cpp(57,34): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\T-Gamer\Desktop\Exercícios Programação\GitHub\Planeta\Planeta\Planeta\main.cpp(64,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+main.obj : error LNK2019: unresolved external symbol _glfwInit referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwTerminate referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwCreateWindow referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwWindowShouldClose referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwSetWindowShouldClose referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwPollEvents referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwGetKey referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwMakeContextCurrent referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwSwapBuffers referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _gluPerspective@32 referenced in function "void __cdecl redimensiona(int,int)" (?redimensiona@@YAXHH@Z)
+C:\Users\T-Gamer\Desktop\Exercícios Programação\GitHub\Planeta\Planeta\glfw\lib-vc2019\glfw3.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\T-Gamer\Desktop\Exercícios Programação\GitHub\Planeta\Planeta\Debug\Planeta.exe : fatal error LNK1120: 10 unresolved externals
